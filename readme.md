@@ -24,3 +24,5 @@
 
 12. **¿Cómo comprobarías que existen diferencias entre tu repositorio local y el remoto?** Usa `git fetch` y `git diff origin/main` para verificar diferencias entre local y remoto.
 
+![Carita Feliz](https://emojipedia-us.s3.amazonaws.com/source/skype/289/slightly-smiling-face.png)
+
