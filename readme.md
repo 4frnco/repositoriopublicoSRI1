@@ -1,3 +1,5 @@
+# repositoriopublicoSRI1
+
 Descargar imagen: Ejecuta docker pull ubuntu y verifica con docker images.
 
 Crear contenedor sin nombre: Usa docker run -d ubuntu y verifica el nombre con docker ps.
